@@ -1,14 +1,14 @@
 # infor2022-t6a1
 Repositório de teste para treinar a utilização dos comandos GIT
 
-[INTRO - João Sousa]
+
 Yau
 Esse som é para todos os meus haters
 Pó caralho ó tones
 Fuck,Cocó
 Comi a tua mãe tone
 
-[VERSO 1 - João Sousa, EduSilva ]
+
 Eu e os meus tropas
 Somos bandidos
 Esfaquiamos sem abrigos!
